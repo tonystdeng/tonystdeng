@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @tonystdeng
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning RNN
 - 💞️ I’m looking to collaborate on all coding projects that earns money
 - 📫 How to reach me "tony.st.deng@gmail.com"
 - 😄 Pronouns: not/gay
